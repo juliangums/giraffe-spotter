@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>568065724442-3v8e5kacef96e17r5i33itnputk9pbq4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.568065724442-3v8e5kacef96e17r5i33itnputk9pbq4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>568065724442-si5vk38ns434orsihe23r7b2qb1o27gd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPv-Oot7iADbqvmYo0DMyhMu71VaoumqI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>568065724442</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ax.synt.giraffeSpotter</string>
+	<key>PROJECT_ID</key>
+	<string>giraffespotter-546fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>giraffespotter-546fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:568065724442:ios:124ac9910a5bbdfd1701a3</string>
+</dict>
+</plist>

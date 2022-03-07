@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "568065724442",
+    "project_id": "giraffespotter-546fc",
+    "storage_bucket": "giraffespotter-546fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568065724442:android:8bece7988616f6d31701a3",
+        "android_client_info": {
+          "package_name": "ax.synt.giraffe_spotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568065724442-si5vk38ns434orsihe23r7b2qb1o27gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ax.synt.giraffe_spotter",
+            "certificate_hash": "27034b6919b8e7e4a1d633ed5bfc692ce42ddb12"
+          }
+        },
+        {
+          "client_id": "568065724442-29knpcjidvotnn8bsbtbupcn2emme6ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnX10VazrXJpqRgnCJDRBLSrCq_pFGEwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568065724442-29knpcjidvotnn8bsbtbupcn2emme6ih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568065724442-3v8e5kacef96e17r5i33itnputk9pbq4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ax.synt.giraffeSpotter",
+                "app_store_id": "1573260404"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
